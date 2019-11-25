@@ -12,6 +12,8 @@ args = parser.parse_args()
 
 for url in args.url:
     dossier = input("Nom du dossier : ")
+    #Changer la partie racine (URI) en fonction de son ordinateur
+    #ICI j'utilise kali en tant que point de départ 
     os.mkdir('/root/Téléchargements/'+dossier+'/')
     os.chdir('/root/Téléchargements/'+dossier+'/')
     page = requests.get(url)
