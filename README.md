@@ -1,6 +1,6 @@
 # Mini downloader de vidéos du collège de France
 
-La problématique rencontrée dans ce cas c'est d'arrêter de télécharger les vidéos une à une.
+La problématique rencontrée dans ce cas c'est d'arrêter de télécharger les vidéos une à une
 
 FONCTIONNE SUR LES DISTRIBUTIONS LINUX
 
